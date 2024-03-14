@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/hrithik-vishwakarma-4764ba1b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/hrithik-vishwakarma-4764ba1b6/" target="_blank" margin-right="20px">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/WhatTheCode" target="_blank">
