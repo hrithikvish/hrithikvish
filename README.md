@@ -1,12 +1,8 @@
-<h2 align="left">Hey 👋 What's up?</h2>
+<h2 align="left">Hey, What's up?</h2>
 
 ###
 
 <p align="left">My name is Hrithik Vishwakarma, and I am passionate about becoming a proficient Native Android Developer based in Mumbai.</p>
-
-###
-
-<h2 align="left">💫 About Me:</h2>
 
 ###
 
