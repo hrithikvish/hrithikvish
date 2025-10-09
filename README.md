@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hrithik Vishwakarma, and I am passionate about becoming a proficient Native Android Developer based in Mumbai.</p>
+<p align="left">My name is Hrithik Vishwakarma, and I am a Native Android Developer based in Mumbai.</p>
 
 ###
 
