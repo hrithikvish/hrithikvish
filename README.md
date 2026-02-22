@@ -57,6 +57,7 @@
 
 <br/><br/><br/><br/><br/>
 
+<br/>
 <hr/>
 
 <h3 align="left">GitHub Stats</h3>
@@ -65,7 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hrithikvish&theme=github-dark&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
-<br/>
 <hr/>
 
 <p>
