@@ -31,6 +31,7 @@
   Currently deepening my expertise in Jetpack Compose and modern Android development practices.
 </p>
 
+<br/>
 <hr/>
 
 <h3 align="left">Technical Skills</h3>
