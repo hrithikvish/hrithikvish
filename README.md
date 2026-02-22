@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/hrithik-vishwakarma-4764ba1b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://github.com/hrithikvish" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
   </a>
@@ -61,13 +60,13 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hrithikvish&theme=github-dark&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
 <br/>
 <hr/>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=hrithikvish&style=flat-square&color=555555" alt="Profile views" />
 </p>
