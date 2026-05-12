@@ -60,14 +60,6 @@
 <br/>
 <hr/>
 
-<h3 align="left">GitHub Stats</h3>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hrithikvish&theme=github-dark&hide_border=true" height="150" alt="Streak Stats" />
-</div>
-
-<hr/>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=hrithikvish&style=flat-square&color=555555" alt="Profile views" />
 </p>
